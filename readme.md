@@ -55,6 +55,15 @@ A estrutura do projeto inclui as seguintes seções:
 
 ---
 
+## 🌍 Acesse o Projeto
+
+Você pode acessar o projeto online clicando no link abaixo:
+
+[👉 Restaurante Açoriano 🌊](https://restaurante-acoriano.vercel.app/)
+
+
+---
+
 ## 🛠 Como Rodar o Projeto
 
 ### Passo 1: Clone o repositório
